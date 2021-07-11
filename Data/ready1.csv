@@ -1,0 +1,661 @@
+age,sex,health_region
+80-89,Male,Vancouver Coastal
+70-79,Male,Simcoe Muskoka
+80-89,Male,Fraser
+50-59,Male,Halton
+60-69,Male,Edmonton
+90-99,Female,Vancouver Coastal
+70-79,Male,Simcoe Muskoka
+80-89,Female,Vancouver Coastal
+70-79,Female,York
+70-79,Male,Toronto
+80-89,Male,Haliburton Kawartha Pineridge
+90-99,Female,Durham
+80-89,Female,Calgary
+80-89,Female,Hamilton
+80-89,Male,Niagara
+90-99,Male,Ottawa
+80-89,Male,Durham
+40-49,Male,Durham
+90-99,Male,Laurentides
+60-69,Female,Winnipeg
+80-89,Female,York
+80-89,Male,Montréal
+70-79,Male,Middlesex-London
+70-79,Female,Simcoe Muskoka
+90-99,Female,Renfrew
+80-89,Female,Calgary
+70-79,Female,Calgary
+80-89,Male,Edmonton
+50-59,Female,Calgary
+80-89,Male,Edmonton
+30-39,Male,North
+70-79,Female,Lambton
+60-69,Male,Huron Perth
+80-89,Male,Ottawa
+80-89,Male,Simcoe Muskoka
+70-79,Male,Toronto
+80-89,Male,Toronto
+80-89,Male,York
+100-109,Female,York
+70-79,Male,York
+90-99,Male,York
+80-89,Female,Ottawa
+80-89,Female,Middlesex-London
+90-99,Female,Middlesex-London
+70-79,Male,Peel
+80-89,Female,Southwestern
+80-89,Male,North
+80-89,Male,Calgary
+80-89,Male,Windsor-Essex
+70-79,Female,Southwestern
+40-49,Male,Waterloo
+60-69,Female,Brant
+70-79,Female,Halton
+70-79,Male,Sudbury
+50-59,Male,Waterloo
+90-99,Male,Calgary
+80-89,Male,North
+30-39,Male,Montréal
+80-89,Male,Windsor-Essex
+80-89,Female,Windsor-Essex
+70-79,Male,Peel
+70-79,Male,Peel
+60-69,Male,Peel
+70-79,Male,York
+40-49,Male,York
+90-99,Female,York
+80-89,Female,York
+80-89,Female,Calgary
+80-89,Female,Calgary
+80-89,Male,Calgary
+90-99,Male,Calgary
+20-29,Female,Edmonton
+50-59,Male,Winnipeg
+90-99,Female,Calgary
+90-99,Female,Calgary
+60-69,Female,Middlesex-London
+60-69,Male,Middlesex-London
+50-59,Female,Porcupine
+60-69,Female,Porcupine
+80-89,Female,Chatham-Kent
+100-109,Female,Hamilton
+80-89,Female,York
+60-69,Male,Calgary
+100-109,Male,North
+80-89,Female,Central
+80-89,Male,Waterloo
+60-69,Female,Lambton
+80-89,Female,Calgary
+70-79,Male,Simcoe Muskoka
+80-89,Male,Hamilton
+80-89,Female,Hamilton
+70-79,Female,Windsor-Essex
+80-89,Male,Windsor-Essex
+70-79,Female,Windsor-Essex
+70-79,Female,Zone 3 - Eastern
+60-69,Male,Winnipeg
+90-99,Male,Calgary
+60-69,Male,Calgary
+90-99,Female,Zone 3 - Eastern
+80-89,Female,Calgary
+60-69,Female,Calgary
+70-79,Male,Edmonton
+70-79,Male,Winnipeg
+60-69,Male,Edmonton
+70-79,Female,Calgary
+90-99,Male,Simcoe Muskoka
+70-79,Male,Simcoe Muskoka
+80-89,Male,Simcoe Muskoka
+90-99,Female,Middlesex-London
+60-69,Male,Peterborough
+80-89,Male,Zone 4 - Central
+80-89,Female,Calgary
+80-89,Male,Calgary
+80-89,Female,Simcoe Muskoka
+60-69,Male,Interior
+60-69,Female,Prairie Mountain
+70-79,Male,Simcoe Muskoka
+70-79,Male,Calgary
+80-89,Female,North
+80-89,Male,Simcoe Muskoka
+80-89,Female,Windsor-Essex
+70-79,Male,Windsor-Essex
+80-89,Female,Zone 3 - Eastern
+70-79,Female,Lambton
+70-79,Male,Lambton
+90-99,Female,Windsor-Essex
+80-89,Female,Windsor-Essex
+80-89,Male,Windsor-Essex
+90-99,Female,Windsor-Essex
+80-89,Male,Windsor-Essex
+80-89,Female,Windsor-Essex
+90-99,Female,Windsor-Essex
+90-99,Male,Windsor-Essex
+60-69,Female,Windsor-Essex
+80-89,Female,Not Reported
+60-69,Male,Lambton
+70-79,Male,Porcupine
+90-99,Female,Simcoe Muskoka
+90-99,Female,Simcoe Muskoka
+70-79,Female,Southwestern
+90-99,Female,Simcoe Muskoka
+90-99,Female,Windsor-Essex
+80-89,Female,Windsor-Essex
+80-89,Female,Windsor-Essex
+80-89,Male,Zone 1 - Western
+80-89,Male,North
+80-89,Female,Middlesex-London
+80-89,Female,Windsor-Essex
+80-89,Female,Windsor-Essex
+60-69,Female,Windsor-Essex
+50-59,Male,Windsor-Essex
+50-59,Female,Windsor-Essex
+80-89,Male,Vancouver Coastal
+70-79,Male,Simcoe Muskoka
+80-89,Male,Fraser
+50-59,Male,Halton
+60-69,Male,Edmonton
+90-99,Female,Vancouver Coastal
+70-79,Male,Simcoe Muskoka
+80-89,Female,Vancouver Coastal
+70-79,Female,York
+70-79,Male,Toronto
+80-89,Male,Haliburton Kawartha Pineridge
+90-99,Female,Durham
+80-89,Female,Calgary
+80-89,Female,Hamilton
+80-89,Male,Niagara
+90-99,Male,Ottawa
+80-89,Male,Durham
+40-49,Male,Durham
+90-99,Male,Laurentides
+60-69,Female,Winnipeg
+80-89,Female,York
+80-89,Male,Montréal
+70-79,Male,Middlesex-London
+70-79,Female,Simcoe Muskoka
+90-99,Female,Renfrew
+80-89,Female,Calgary
+70-79,Female,North
+70-79,Male,Central
+70-79,Female,Calgary
+80-89,Male,Edmonton
+50-59,Female,Calgary
+80-89,Male,Edmonton
+30-39,Male,North
+70-79,Female,Lambton
+60-69,Male,Huron Perth
+80-89,Male,Ottawa
+80-89,Male,Simcoe Muskoka
+70-79,Male,Toronto
+80-89,Male,Toronto
+80-89,Male,York
+100-109,Female,York
+70-79,Male,York
+90-99,Male,York
+80-89,Female,Ottawa
+80-89,Female,Middlesex-London
+90-99,Female,Middlesex-London
+70-79,Male,Peel
+80-89,Female,Southwestern
+80-89,Male,Saskatoon
+80-89,Male,North
+80-89,Male,Calgary
+80-89,Male,Windsor-Essex
+70-79,Female,Southwestern
+40-49,Male,Waterloo
+60-69,Female,Brant
+70-79,Female,Halton
+70-79,Male,Sudbury
+50-59,Male,Waterloo
+90-99,Male,Calgary
+80-89,Male,North
+30-39,Male,Montréal
+80-89,Male,Windsor-Essex
+80-89,Female,Windsor-Essex
+70-79,Male,Peel
+70-79,Male,Peel
+60-69,Male,Peel
+70-79,Male,York
+40-49,Male,York
+90-99,Female,York
+80-89,Female,York
+80-89,Female,Calgary
+80-89,Female,Calgary
+80-89,Male,Calgary
+90-99,Male,Calgary
+20-29,Female,Edmonton
+50-59,Male,Winnipeg
+90-99,Female,Calgary
+90-99,Female,Calgary
+60-69,Female,Middlesex-London
+60-69,Male,Middlesex-London
+50-59,Female,Porcupine
+60-69,Female,Porcupine
+80-89,Female,Chatham-Kent
+100-109,Female,Hamilton
+80-89,Female,York
+60-69,Male,Calgary
+100-109,Male,North
+80-89,Female,Central
+80-89,Male,Waterloo
+60-69,Female,Lambton
+80-89,Female,Calgary
+70-79,Male,Simcoe Muskoka
+80-89,Male,Hamilton
+80-89,Female,Hamilton
+70-79,Female,Windsor-Essex
+80-89,Male,Windsor-Essex
+70-79,Female,Windsor-Essex
+70-79,Female,Zone 3 - Eastern
+60-69,Male,Winnipeg
+90-99,Male,Calgary
+60-69,Male,Calgary
+90-99,Female,Zone 3 - Eastern
+80-89,Female,Calgary
+60-69,Female,Calgary
+70-79,Male,Edmonton
+70-79,Male,Winnipeg
+60-69,Male,Edmonton
+70-79,Female,Calgary
+60-69,Male,Regina
+90-99,Male,Simcoe Muskoka
+70-79,Male,Simcoe Muskoka
+80-89,Male,Simcoe Muskoka
+90-99,Female,Middlesex-London
+60-69,Male,Peterborough
+80-89,Male,Zone 4 - Central
+80-89,Female,Calgary
+80-89,Male,Calgary
+90-99,Female,Southwestern
+80-89,Female,Simcoe Muskoka
+60-69,Male,Interior
+60-69,Female,Prairie Mountain
+70-79,Male,Simcoe Muskoka
+70-79,Male,Calgary
+80-89,Female,North
+80-89,Male,Simcoe Muskoka
+80-89,Female,Windsor-Essex
+70-79,Male,Windsor-Essex
+80-89,Female,Zone 3 - Eastern
+70-79,Female,Lambton
+70-79,Male,Lambton
+90-99,Female,Windsor-Essex
+80-89,Female,Windsor-Essex
+80-89,Male,Windsor-Essex
+90-99,Female,Windsor-Essex
+80-89,Male,Windsor-Essex
+80-89,Female,Windsor-Essex
+90-99,Female,Windsor-Essex
+90-99,Male,Windsor-Essex
+60-69,Female,Windsor-Essex
+80-89,Female,Winnipeg
+60-69,Male,Lambton
+70-79,Male,Porcupine
+90-99,Female,Simcoe Muskoka
+90-99,Female,Simcoe Muskoka
+70-79,Female,Southwestern
+90-99,Female,Simcoe Muskoka
+90-99,Female,Windsor-Essex
+80-89,Female,Windsor-Essex
+80-89,Female,Windsor-Essex
+80-89,Male,Zone 1 - Western
+50-59,Male,Thunder Bay
+70-79,Male,Interior
+80-89,Male,Far North
+80-89,Female,Middlesex-London
+80-89,Female,Windsor-Essex
+80-89,Female,Windsor-Essex
+60-69,Female,Windsor-Essex
+50-59,Male,Windsor-Essex
+50-59,Female,Windsor-Essex
+90-99,Female,Peterborough
+80-89,Female,Saskatoon
+70-79,Male,Middlesex-London
+90-99,Female,Middlesex-London
+60-69,Male,Middlesex-London
+80-89,Male,Middlesex-London
+80-89,Male,Porcupine
+90-99,Female,Windsor-Essex
+90-99,Female,Windsor-Essex
+90-99,Male,Windsor-Essex
+80-89,Male,Windsor-Essex
+80-89,Male,Windsor-Essex
+70-79,Female,Windsor-Essex
+80-89,Female,Sudbury
+70-79,Female,Eastern
+80-89,Male,Eastern
+70-79,Male,Southern Health
+90-99,Female,Simcoe Muskoka
+90-99,Female,Windsor-Essex
+80-89,Male,Windsor-Essex
+90-99,Female,Windsor-Essex
+40-49,Male,Middlesex-London
+70-79,Male,Porcupine
+80-89,Female,Simcoe Muskoka
+90-99,Male,Simcoe Muskoka
+70-79,Male,Simcoe Muskoka
+80-89,Female,Simcoe Muskoka
+60-69,Female,Middlesex-London
+80-89,Male,Middlesex-London
+50-59,Male,Middlesex-London
+80-89,Female,Simcoe Muskoka
+60-69,Female,Porcupine
+80-89,Male,Middlesex-London
+70-79,Male,Calgary
+80-89,Male,Calgary
+80-89,Female,Calgary
+90-99,Female,Calgary
+70-79,Female,Calgary
+90-99,Female,Edmonton
+90-99,Female,Calgary
+90-99,Female,Eastern
+70-79,Female,Porcupine
+80-89,Male,Middlesex-London
+80-89,Female,Zone 4 - Central
+70-79,Female,Middlesex-London
+60-69,Female,Far North
+80-89,Female,Middlesex-London
+100-109,Female,Calgary
+80-89,Female,South
+80-89,Female,Hamilton
+70-79,Female,Middlesex-London
+80-89,Female,Windsor-Essex
+30-39,Male,Windsor-Essex
+100-109,Male,Lambton
+80-89,Female,Middlesex-London
+70-79,Female,Windsor-Essex
+80-89,Male,Middlesex-London
+80-89,Male,Zone 5 (Campbellton area)
+70-79,Male,Zone 4 - Central
+80-89,Male,Middlesex-London
+50-59,Female,North Bay Parry Sound
+70-79,Female,Zone 4 - Central
+90-99,Female,Middlesex-London
+70-79,Male,Porcupine
+70-79,Male,Windsor-Essex
+60-69,Male,Zone 4 - Central
+80-89,Male,South
+70-79,Male,Edmonton
+80-89,Male,South
+80-89,Male,North
+70-79,Female,Windsor-Essex
+80-89,Female,Calgary
+90-99,Female,Edmonton
+70-79,Female,Waterloo
+90-99,Male,Calgary
+90-99,Female,Edmonton
+70-79,Male,Edmonton
+80-89,Female,Calgary
+70-79,Female,Edmonton
+80-89,Female,Edmonton
+90-99,Female,Edmonton
+70-79,Female,Edmonton
+70-79,Male,South
+80-89,Female,Edmonton
+100+,Female,Edmonton
+90-99,Female,Edmonton
+90-99,Female,Edmonton
+90-99,Female,Edmonton
+90-99,Female,Edmonton
+80-89,Female,Edmonton
+80-89,Male,South
+80-89,Male,South
+80-89,Female,Edmonton
+70-79,Male,Southern Health
+40-49,Male,Ottawa
+80-89,Male,Vancouver Coastal
+70-79,Male,Simcoe Muskoka
+80-89,Male,Fraser
+50-59,Male,Halton
+60-69,Male,Edmonton
+90-99,Female,Vancouver Coastal
+70-79,Male,Simcoe Muskoka
+80-89,Female,Vancouver Coastal
+70-79,Female,York
+70-79,Male,Toronto
+80-89,Male,Haliburton Kawartha Pineridge
+90-99,Female,Durham
+80-89,Female,Calgary
+80-89,Female,Hamilton
+80-89,Male,Niagara
+90-99,Male,Ottawa
+80-89,Male,Durham
+40-49,Male,Durham
+90-99,Male,Laurentides
+60-69,Female,Winnipeg
+80-89,Female,York
+80-89,Male,Montréal
+70-79,Male,Middlesex-London
+70-79,Female,Simcoe Muskoka
+90-99,Female,Renfrew
+80-89,Female,Calgary
+70-79,Female,North
+70-79,Male,Central
+70-79,Female,Calgary
+80-89,Male,Edmonton
+50-59,Female,Calgary
+80-89,Male,Edmonton
+30-39,Male,North
+70-79,Female,Lambton
+60-69,Male,Huron Perth
+80-89,Male,Ottawa
+80-89,Male,Simcoe Muskoka
+70-79,Male,Toronto
+80-89,Male,Toronto
+80-89,Male,York
+100-109,Female,York
+70-79,Male,York
+90-99,Male,York
+80-89,Female,Ottawa
+80-89,Female,Middlesex-London
+90-99,Female,Middlesex-London
+70-79,Male,Peel
+80-89,Female,Southwestern
+80-89,Male,Saskatoon
+80-89,Male,North
+80-89,Male,Calgary
+80-89,Male,Windsor-Essex
+70-79,Female,Southwestern
+40-49,Male,Waterloo
+60-69,Female,Brant
+70-79,Female,Halton
+70-79,Male,Sudbury
+50-59,Male,Waterloo
+90-99,Male,Calgary
+80-89,Male,North
+30-39,Male,Montréal
+80-89,Male,Windsor-Essex
+80-89,Female,Windsor-Essex
+70-79,Male,Peel
+70-79,Male,Peel
+60-69,Male,Peel
+70-79,Male,York
+40-49,Male,York
+90-99,Female,York
+80-89,Female,York
+80-89,Female,Calgary
+80-89,Female,Calgary
+80-89,Male,Calgary
+90-99,Male,Calgary
+20-29,Female,Edmonton
+50-59,Male,Winnipeg
+90-99,Female,Calgary
+90-99,Female,Calgary
+60-69,Female,Middlesex-London
+60-69,Male,Middlesex-London
+50-59,Female,Porcupine
+60-69,Female,Porcupine
+80-89,Female,Chatham-Kent
+100-109,Female,Hamilton
+80-89,Female,York
+60-69,Male,Calgary
+100-109,Male,North
+80-89,Female,Central
+80-89,Male,Waterloo
+60-69,Female,Lambton
+80-89,Female,Calgary
+70-79,Male,Simcoe Muskoka
+80-89,Male,Hamilton
+80-89,Female,Hamilton
+70-79,Female,Windsor-Essex
+80-89,Male,Windsor-Essex
+70-79,Female,Windsor-Essex
+70-79,Female,Zone 3 - Eastern
+60-69,Male,Winnipeg
+90-99,Male,Calgary
+60-69,Male,Calgary
+90-99,Female,Zone 3 - Eastern
+80-89,Female,Calgary
+60-69,Female,Calgary
+70-79,Male,Edmonton
+70-79,Male,Winnipeg
+60-69,Male,Edmonton
+70-79,Female,Calgary
+60-69,Male,Regina
+90-99,Male,Simcoe Muskoka
+70-79,Male,Simcoe Muskoka
+80-89,Male,Simcoe Muskoka
+90-99,Female,Middlesex-London
+60-69,Male,Peterborough
+80-89,Male,Zone 4 - Central
+80-89,Female,Calgary
+80-89,Male,Calgary
+90-99,Female,Southwestern
+80-89,Female,Simcoe Muskoka
+60-69,Male,Interior
+60-69,Female,Prairie Mountain
+70-79,Male,Simcoe Muskoka
+70-79,Male,Calgary
+80-89,Female,North
+80-89,Male,Simcoe Muskoka
+80-89,Female,Windsor-Essex
+70-79,Male,Windsor-Essex
+80-89,Female,Zone 3 - Eastern
+70-79,Female,Lambton
+70-79,Male,Lambton
+90-99,Female,Windsor-Essex
+80-89,Female,Windsor-Essex
+80-89,Male,Windsor-Essex
+90-99,Female,Windsor-Essex
+80-89,Male,Windsor-Essex
+80-89,Female,Windsor-Essex
+90-99,Female,Windsor-Essex
+90-99,Male,Windsor-Essex
+60-69,Female,Windsor-Essex
+80-89,Female,Winnipeg
+60-69,Male,Lambton
+70-79,Male,Porcupine
+90-99,Female,Simcoe Muskoka
+90-99,Female,Simcoe Muskoka
+70-79,Female,Southwestern
+90-99,Female,Simcoe Muskoka
+90-99,Female,Windsor-Essex
+80-89,Female,Windsor-Essex
+80-89,Female,Windsor-Essex
+80-89,Male,Zone 1 - Western
+50-59,Male,Thunder Bay
+70-79,Male,Interior
+80-89,Male,Far North
+80-89,Female,Middlesex-London
+80-89,Female,Windsor-Essex
+80-89,Female,Windsor-Essex
+60-69,Female,Windsor-Essex
+50-59,Male,Windsor-Essex
+50-59,Female,Windsor-Essex
+90-99,Female,Peterborough
+80-89,Female,Saskatoon
+70-79,Male,Middlesex-London
+90-99,Female,Middlesex-London
+60-69,Male,Middlesex-London
+80-89,Male,Middlesex-London
+80-89,Male,Porcupine
+90-99,Female,Windsor-Essex
+90-99,Female,Windsor-Essex
+90-99,Male,Windsor-Essex
+80-89,Male,Windsor-Essex
+80-89,Male,Windsor-Essex
+70-79,Female,Windsor-Essex
+80-89,Female,Sudbury
+70-79,Female,Eastern
+80-89,Male,Eastern
+70-79,Male,Southern Health
+90-99,Female,Simcoe Muskoka
+90-99,Female,Windsor-Essex
+80-89,Male,Windsor-Essex
+90-99,Female,Windsor-Essex
+40-49,Male,Middlesex-London
+70-79,Male,Porcupine
+80-89,Female,Simcoe Muskoka
+90-99,Male,Simcoe Muskoka
+70-79,Male,Simcoe Muskoka
+80-89,Female,Simcoe Muskoka
+60-69,Female,Middlesex-London
+80-89,Male,Middlesex-London
+50-59,Male,Middlesex-London
+80-89,Female,Simcoe Muskoka
+60-69,Female,Porcupine
+80-89,Male,Middlesex-London
+70-79,Male,Calgary
+80-89,Male,Calgary
+80-89,Female,Calgary
+90-99,Female,Calgary
+70-79,Female,Calgary
+90-99,Female,Edmonton
+90-99,Female,Calgary
+90-99,Female,Eastern
+70-79,Female,Porcupine
+80-89,Male,Middlesex-London
+80-89,Female,Zone 4 - Central
+70-79,Female,Middlesex-London
+60-69,Female,Far North
+80-89,Female,Middlesex-London
+100-109,Female,Calgary
+80-89,Female,South
+80-89,Female,Hamilton
+70-79,Female,Middlesex-London
+80-89,Female,Windsor-Essex
+30-39,Male,Windsor-Essex
+100-109,Male,Lambton
+80-89,Female,Middlesex-London
+70-79,Female,Windsor-Essex
+80-89,Male,Middlesex-London
+80-89,Male,Zone 5 (Campbellton area)
+70-79,Male,Zone 4 - Central
+80-89,Male,Middlesex-London
+50-59,Female,North Bay Parry Sound
+70-79,Female,Zone 4 - Central
+90-99,Female,Middlesex-London
+70-79,Male,Porcupine
+70-79,Male,Windsor-Essex
+60-69,Male,Zone 4 - Central
+80-89,Male,South
+70-79,Male,Edmonton
+80-89,Male,South
+80-89,Male,North
+70-79,Female,Windsor-Essex
+80-89,Female,Calgary
+90-99,Female,Edmonton
+70-79,Female,Waterloo
+90-99,Male,Calgary
+90-99,Female,Edmonton
+70-79,Male,Edmonton
+80-89,Female,Calgary
+70-79,Female,Edmonton
+80-89,Female,Edmonton
+90-99,Female,Edmonton
+70-79,Female,Edmonton
+70-79,Male,South
+80-89,Female,Edmonton
+100+,Female,Edmonton
+90-99,Female,Edmonton
+90-99,Female,Edmonton
+90-99,Female,Edmonton
+90-99,Female,Edmonton
+80-89,Female,Edmonton
+80-89,Male,South
+80-89,Male,South
+80-89,Female,Edmonton
+70-79,Male,Southern Health
+40-49,Male,Ottawa
