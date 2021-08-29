@@ -1,5 +1,4 @@
 # Predict popularity affects by COVID19
-Accenture AI Hackathon Solution
 
 > I have trained a model, based on public dataset available online. I have compiled all the dataset, and extracted the one, which shows the direct affect on a particular age group of COVID19, determined by their sex and the region they belong to. 
 It was asked in the problem statement that we must predict the population that will have highest risk of contracting COVID19. 
